@@ -31,6 +31,7 @@ C e C++
 * Ter instalado no seu computador as Linguagen:
     * C++ 17 ou Acima
     * C99 ou Acima
+    * Python 3.8 ou Acima
 
 ### **Comandos Necessários**
 * Para compilar as questões em C
@@ -46,6 +47,16 @@ g++ ./NomeCodigo.cpp
 ```
 ./NomeExecutavel.exe
 ```
+* Para executar as questões em python
+```
+python nome_do_codigo.py
+```
+
+* ou
+```
+python3 nome_do_codigo.py
+```
+
 ## Uso 
 
 * 1° passo: Crie uma conta no beecrowd 
