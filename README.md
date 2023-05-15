@@ -25,7 +25,7 @@
 Execução da [Questão 1152 - Estradas Escuras](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Thiago/1152%20-%20Estradas%20Escuras) em python.
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/fada1dec-3a61-478d-9e8b-d49ac050fe9b)
 
-Execução da [Questão 1931 - Mania de Par](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Thiago/1931%20Mania%20de%20Par) em x <br>
+Execução da [Questão 2562 - Tipos Analogimon]() em C <br>
 Execução da [Questão 2731 - Trip Programming](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em C <br>
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/af890d92-5e5f-4878-983c-13da36b50e02)
 
@@ -36,11 +36,10 @@ Execução da [Questão 3144 - G of Graph](https://github.com/projeto-de-algorit
 ## Instalação 
 
 ### **Linguagens:** 
-C, C++ e Python
+C e Python
 
 ### **Pré-requisistos**
 * Ter instalado no seu computador as Linguagen:
-    * C++ 17 ou Acima
     * C99 ou Acima
     * Python 3.8 ou Acima
 
@@ -49,11 +48,7 @@ C, C++ e Python
 ```
 gcc ./NomeCodigo.c 
 ```
-* Para compilar as questões em C++
-```
-g++ ./NomeCodigo.cpp 
-```
-* Para executar tanto questões em C ou C++
+* Para executar as questões em C
     * Ao compilar, automaticamente será gerada um executavel, basta executá-lo desta forma
 ```
 ./NomeExecutavel.exe
