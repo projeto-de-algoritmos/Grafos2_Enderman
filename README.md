@@ -26,8 +26,12 @@ Execução da [Questão 1152 - Estradas Escuras](https://github.com/projeto-de-a
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/fada1dec-3a61-478d-9e8b-d49ac050fe9b)
 
 Execução da [Questão 1931 - Mania de Par](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Thiago/1931%20Mania%20de%20Par) em x <br>
-Execução da [Questão 2731 - Trip Programming](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em x <br>
-Execução da [Questão 3144 - G of Graph](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em x <br>
+Execução da [Questão 2731 - Trip Programming](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em C <br>
+![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/af890d92-5e5f-4878-983c-13da36b50e02)
+
+Execução da [Questão 3144 - G of Graph](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em C <br>
+![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/7b58f7d3-9462-46ed-b23f-4501d91e8687)
+![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/809daa88-00bd-4cd7-b089-37dbc485b6a9)
 
 ## Instalação 
 
