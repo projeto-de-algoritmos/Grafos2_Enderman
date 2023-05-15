@@ -22,10 +22,17 @@
 
 ## Screenshots
 
+Execução da [Questão 1152 - Estradas Escuras](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Thiago/1152%20-%20Estradas%20Escuras) em python.
+![image](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/assets/71983200/fada1dec-3a61-478d-9e8b-d49ac050fe9b)
+
+Execução da [Questão 1931 - Mania de Par](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Thiago/1931%20Mania%20de%20Par) em x <br>
+Execução da [Questão 2731 - Trip Programming](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em x <br>
+Execução da [Questão 3144 - G of Graph](https://github.com/projeto-de-algoritmos/Grafos2_Enderman/tree/master/Pablo) em x <br>
+
 ## Instalação 
 
 ### **Linguagens:** 
-C e C++
+C, C++ e Python
 
 ### **Pré-requisistos**
 * Ter instalado no seu computador as Linguagen:
